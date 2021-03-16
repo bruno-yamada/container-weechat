@@ -1,5 +1,7 @@
 # Container Image for using weechat
 
+Page on DockerHub: [brunoyamada/container-weechat](https://hub.docker.com/repository/docker/brunoyamada/container-weechat)
+
 The container will keep a running process with `tail -f /dev/null`
 
 You can enter the container with `docker exec -it weechat sh`
