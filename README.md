@@ -18,3 +18,5 @@ Save settings(don't forget to save):
 ```
 /save
 ```
+
+[Refer my notes on weechat for more](https://github.com/bruno-yamada/bruno-yamada/blob/master/notes/weechat.md)
